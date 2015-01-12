@@ -7,7 +7,7 @@ title:            Poole
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
 paginate:         1
-baseurl:          /
+baseurl:          http://fakdora.github.io/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
@@ -16,4 +16,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           http://fakdora.github.io/poole/
