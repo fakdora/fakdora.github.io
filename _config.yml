@@ -5,9 +5,9 @@ relative_permalinks: true
 # Setup
 title:            David H Lee
 tagline:          Python Web Developer
-url:              http://davidhajoon.com
+url:              http://davidhajoon.com/
 paginate:         1
-baseurl:          http://davidhajoon.com
+baseurl:          /
 author:
   name:           David H Lee
   url:            https://twitter.com/fakdora
