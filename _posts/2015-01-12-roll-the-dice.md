@@ -1,3 +1,7 @@
+---
+layout: post
+title: Roll the Dice
+---
 
 
 roll the dice
